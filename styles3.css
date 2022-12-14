@@ -1,0 +1,98 @@
+.hero-image3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/musicbackground.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 0px;
+  }
+
+
+  html, body{
+      height: 100%;
+      margin: 0;
+      background-color: black;
+  }
+  .title{
+      margin-top: 250px;
+      text-align: center;
+      margin: auto;
+      font-family: serif;
+      font-size:50px;
+      color: wheat;
+  }
+
+  .li{
+      float: left;
+
+    }
+
+  li a{
+      display: block;
+      color: rgb(255, 255, 255);
+      text-align: center;
+      padding: 16px;
+      font-family: serif;
+      font-size: 35px;
+      text-decoration: none;
+  }
+
+  li a:hover{
+      color: rgb(127, 212, 124);
+  }
+
+  .nav3{
+      
+    text-align: center;
+      margin-left: 400px;
+      margin-right: 400px;
+      margin-top: 100px;
+      padding: 0;
+      border-style:solid;
+      text-align: center;
+      border-color: white;
+  }
+  .bio{
+            
+    display: flex;
+    list-style-type: none;
+    overflow: hidden;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    padding: 0;
+    border-style:solid;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    
+  }
+  .talent{
+    margin-top: 50px;
+    text-align: center;
+    font-family: serif;
+    font-size:25px;
+    color: rgb(255, 255, 255);   
+    padding: 0;
+    border-style:solid;
+    text-align: center;
+    border-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+  .img{
+    width: 350px;
+    height: 300px;
+
+  }
+  .hero-image4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/jizzrat.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 0px;
+  }
